@@ -1,0 +1,15 @@
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\bin\Debug\dss-project1.exe.config
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\bin\Debug\dss-project1.exe
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\bin\Debug\dss-project1.pdb
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\ml-classification-tool.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\ml-classification-tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss_project1.Form1.resources
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss_project1.HelpPage.resources
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss_project1.Option1Page.resources
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss_project1.Option2Page.resources
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss_project1.Properties.Resources.resources
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\ml-classification-tool.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\ml-classification-tool.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\ml-classification-tool.csproj.CopyComplete
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss-project1.exe
+C:\Users\Hakan\Desktop\ml-classification-tool\ml-classification-tool\Project\dss-project1\obj\Debug\dss-project1.pdb

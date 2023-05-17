@@ -1,0 +1,8 @@
+@RELATION new_instance
+@ATTRIBUTE outlook {'sunny','overcast','rainy'}
+@ATTRIBUTE temperature REAL
+@ATTRIBUTE humidity REAL
+@ATTRIBUTE windy {'TRUE','FALSE'}
+@ATTRIBUTE play {'yes','no'}
+@DATA
+overcast,3,2,FALSE,?
